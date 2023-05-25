@@ -1,5 +1,6 @@
 
 
 def calculate_two(a, b, c):
-    result = a + b + c
-    return result
+    addition = a + b + c
+    subtraction = a -b - c
+    return addition, subtraction
